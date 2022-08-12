@@ -1,0 +1,15 @@
+[
+    { "id":1, "nombre":"Posa Vasos Crochet", "precio":500,"destacado":"Hechos con fibras naturales", "descripcion":"Diametro 10cm", "imagen":"../../assets/img/posa-vasos-1.jpg"},
+    { "id":2, "nombre":"Posa Vasos Macrame", "precio":500,"destacado":"Hechos con fibras naturales", "descripcion":"Diametro 10cm", "imagen":"../../assets/img/posa-vasos-macrame.jpg"},
+    { "id":3, "nombre":"Individuales Chochet", "precio":1000,"destacado":"Hechos con fibras naturales", "descripcion":"Diametro 30cm", "imagen":"../../assets/img/individuales 3-min.jpg"},
+    { "id":4, "nombre":"Individuales Macrame", "precio":1000,"destacado":"Hechos con fibras naturales", "descripcion":"Diametro 30cm", "imagen":"../../assets/img/individuales 1-min.jpg"},
+    { "id":5, "nombre":"Canasta Grande", "precio":1500,"destacado":"Hechos con fibras naturales", "descripcion":"Diametro 20cm y 12cm de Alto", "imagen":"../../assets/img/canastas 1-min.jpg"},
+    { "id":6, "nombre":"Canasta Chica", "precio":1000,"destacado":"Hechos con fibras naturales", "descripcion":"Diametro 10cm y 10cm de Alto", "imagen":"../../assets/img/canasta maseta 2-min.jpg"},
+    { "id":7, "nombre":"Llavero", "precio":400,"destacado":"Hechos con fibras naturales", "descripcion":"Largo 12cm", "imagen":"../../assets/img/llaveros 2-min.jpg"},
+    { "id":8, "nombre":"Lamparas Yute", "precio":4000,"destacado":"Quedan hermosas", "descripcion":"Para adornar cuartos, livings, o lo que mas quieras", "imagen":"../../assets/img/lamparas yute-min.jpg"},
+    { "id":9, "nombre":"Lamparas Vintage", "precio":5000,"destacado":"Quedan hermosas", "descripcion":"Para adornar cuartos, livings, o lo que mas quieras", "imagen":"../../assets/img/lamparas vintage-min.jpg"},
+    { "id":10, "nombre":"Espejo", "precio":3000,"destacado":"Hechos a mano con fibras naturales", "descripcion":"Tamaño 30cm de diametro", "imagen":"../../assets/img/espejo 1-min.jpg"},
+    { "id":11, "nombre":"Espejo", "precio":4000,"destacado":"Hechos a mano con fibras naturales", "descripcion":"Tamaño 50cm de diametro", "imagen":"../../assets/img/espejo 3-min.jpg"}
+  ]
+
+  

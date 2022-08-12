@@ -1,0 +1,209 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0%;
+}
+
+body {
+    background-color: #ffbb5f;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+} 
+
+.navbar{
+    background-color: #f8e9d3;
+}
+
+.car-img{
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}
+
+#icono_redes{
+    color: black;
+    font-size: 26px;
+}
+
+.botonAceptarAlert{
+    background-color: #ffbb5f;
+}
+
+
+
+.contenedorTarjetas .card {
+    max-width: 1400px;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .contenedorTarjetas .card .card-body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  
+  .contenedorTarjetas .card .card-body .card-title {
+    font-weight: bold;
+  }
+
+
+@media (max-width:526px){
+    footer{
+         flex-direction: column;
+    }
+    .tituloFooter{
+        font-size: 15px;
+    }
+    #iconosRedes{
+        display: flex;
+        align-items: center;
+        justify-content: space-between !important;
+        font-size: 10px;
+    }
+    .contenedorTarjetas{
+        flex-direction: column;
+    }
+    .card{
+        width: 95% !important;
+    }
+    .btn{
+        width: 150px;
+    }
+    #logo{
+        display: none;
+    }
+}
+
+
+@media (max-width:576px){
+    footer{
+        flex-direction: column;
+   }
+   .tituloFooter{
+       font-size: 15px;
+   }
+   #iconosRedes{
+       display: flex;
+       align-items: center;
+       justify-content: space-between !important;
+       font-size: 10px;
+   }
+   .navbar{
+    width: 100%;
+}
+    .contenedorTarjetas{
+        flex-direction: column;
+    }
+    .card{
+        width: 95% !important;
+    }
+    .btn{
+        width: 150px;
+    }
+    #logo{
+        display: none;
+    }
+    
+}
+
+@media  (max-width:768px) {
+    footer{
+        flex-direction: column;
+   }
+   .tituloFooter{
+       font-size: 15px;
+   }
+   #iconosRedes{
+       display: flex;
+       align-items: center;
+       justify-content: space-between !important;
+       font-size: 10px;
+   }
+   .navbar{
+    width: 100%;
+}
+    .contenedorTarjetas{
+        flex-direction: column;
+    }
+    .card{
+        width: 95% !important;
+    }
+    .btn{
+        width: 150px;
+    }
+    #logo{
+        display: none;
+    }
+}
+
+@media  (min-width:769px) {
+    
+    footer{
+        flex-direction: column;
+   }
+   .tituloFooter{
+       font-size: 15px;
+   }
+   #iconosRedes{
+       display: flex;
+       align-items: center;
+       justify-content: space-between !important;
+       font-size: 10px;
+   }
+   .navbar{
+    width: 100%;
+}
+    #name {
+        width: 400px;
+    }
+    #phone {
+        width: 400px;
+    }
+    #address {
+        width: 400px;
+    }
+    #mail {
+        width: 400px;
+    }
+    .navbar{
+        width: 100%;
+    }
+
+}
+@media  (min-width:780px) {
+    #name {
+        width: 400px;
+    }
+    #phone {
+        width: 400px;
+    }
+    #address {
+        width: 400px;
+    }
+    #mail {
+        width: 400px;
+    }
+    .nav-link{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .navbar{
+        width: 100%;
+    }
+
+}
+@media  (max-width:986px) {
+    .logo{
+        display: none;
+    }
+}
+.mediosDePago ul li {
+    background-color: rgba(255, 255, 255, 0);
+    color: #ffff;
+  }
